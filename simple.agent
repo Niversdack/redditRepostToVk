@@ -1,0 +1,5 @@
+user_agent: "<platform>:<app ID>:<version string> (by /u/<reddit username>)"
+client_id: "XXXXX"
+client_secret: "XXXXX"
+username: "XXXX"
+password: "XXXX"
